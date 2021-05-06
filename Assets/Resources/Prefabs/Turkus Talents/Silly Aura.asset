@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6350392bb4bd2b4b9b959c2e1a5274c, type: 3}
+  m_Name: Silly Aura
+  m_EditorClassIdentifier: 
+  isActiveSkill: 1
+  talentName: Silly Aura
+  ranking: 1
+  talentRequirement: {fileID: 11400000, guid: 511698577be02c748806fa9a80339749, type: 2}
+  talentPointsRequirement: 20
+  cost: 600
+  costType: IQ
+  castTime: Instant
+  skillRequirements: []
+  range: 30
+  cooldown: 0
+  talentEffect: Increases morale of your party by your morale amount for 30 min,
+    also increasing mood by the same amount.

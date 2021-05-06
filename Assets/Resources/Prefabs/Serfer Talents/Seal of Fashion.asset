@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6350392bb4bd2b4b9b959c2e1a5274c, type: 3}
+  m_Name: Seal of Fashion
+  m_EditorClassIdentifier: 
+  isActiveSkill: 1
+  talentName: Seal of Fashion
+  ranking: 1
+  talentRequirement: {fileID: 0}
+  talentPointsRequirement: 10
+  cost: 65
+  costType: Mana
+  castTime: Instant
+  skillRequirements: []
+  range: 0
+  cooldown: 0
+  talentEffect: 'Gives the Paladin a chance to deal additional Holy damage to people
+    with not matching transmogs, equal to 70% of normal weapon damage. Only one Seal
+    can be active. Lasts 30 sec.
+
+
+    Unleashing this Seal''s energy will judge
+    an enemy, instantly causing 68 yo 73 Holy damage, 137 to 146 if target is Slutmogged
+    Thot.'

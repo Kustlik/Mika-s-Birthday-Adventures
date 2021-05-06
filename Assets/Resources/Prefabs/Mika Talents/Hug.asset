@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6350392bb4bd2b4b9b959c2e1a5274c, type: 3}
+  m_Name: Hug
+  m_EditorClassIdentifier: 
+  isActiveSkill: 1
+  talentName: Hug
+  ranking: 1
+  talentRequirement: {fileID: 0}
+  talentPointsRequirement: 10
+  cost: 1
+  costType: Cat Life
+  castTime: Channeled (10 sec cast)
+  skillRequirements:
+  - Requires 50 Strength
+  range: 10
+  cooldown: 0
+  talentEffect: Hugs your target with the power of 1000 "Golden Tractors" breaking
+    all ribs and executing your target when channel completes. Acts like a normal
+    hug against friendly targets.

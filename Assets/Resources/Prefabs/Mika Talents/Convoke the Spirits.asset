@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6350392bb4bd2b4b9b959c2e1a5274c, type: 3}
+  m_Name: Convoke the Spirits
+  m_EditorClassIdentifier: 
+  isActiveSkill: 1
+  talentName: Convoke the Spirits
+  ranking: 1
+  talentRequirement: {fileID: 0}
+  talentPointsRequirement: 30
+  cost: 100
+  costType: Faerie Saliva
+  castTime: "Channeled (4 sec cast)\t"
+  skillRequirements:
+  - Requires Druid
+  range: 10
+  cooldown: 120
+  talentEffect: 'Call upon your Ancestors for an eruption of energy, channeling a
+    rapid flurry of 16 Slurs over 4 sec.
+
+    Activating this ability while in toxic
+    form, grants you an n-word pass.
+
+
+    Your casts will target appropriate nearby
+    targets, favoring your current shapeshift form.
+
+'

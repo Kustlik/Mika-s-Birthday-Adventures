@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6350392bb4bd2b4b9b959c2e1a5274c, type: 3}
+  m_Name: Pixie-copter
+  m_EditorClassIdentifier: 
+  isActiveSkill: 1
+  talentName: Pixie-Copter
+  ranking: 1
+  talentRequirement: {fileID: 11400000, guid: 6067c3a221cb7f444b568bf6ec7efb9f, type: 2}
+  talentPointsRequirement: 25
+  cost: 2
+  costType: Guinea's Pet Food
+  castTime: 2 sec cast
+  skillRequirements:
+  - Requires Pixie on the Table
+  range: 10
+  cooldown: 0
+  talentEffect: Summons Pixie-Copter allowing you to quickly transport your party
+    members at long distance. Grants you access to bombard on ground targets using
+    certain smelly material.
