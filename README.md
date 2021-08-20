@@ -1,5 +1,5 @@
 # Mika-s-Birthday-Adventures
-Mika's Birthday Adventures is a "Plant versus Zombie" genre type of game written in Unity, project used to self-learning. Finished project is builded in PC Stand-alone version.
+Mika's Birthday Adventures is a "Plant versus Zombie" genre type of game written in Unity, project used to self-learning and written for my friends birthday. Finished project is builded in PC Stand-alone version.
 
 ![Preview](Preview/PvZPreview.gif)
 
