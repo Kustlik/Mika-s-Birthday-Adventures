@@ -1,7 +1,7 @@
 # Mika-s-Birthday-Adventures
 Mika's Birthday Adventures is a "Plant versus Zombie" genre type of game written in Unity, project used to self-learning. Finished project is builded in PC Stand-alone version.
 
-![Preview](preview/PvZPreview.gif)
+![Preview](Preview/PvZPreview.gif)
 
 ## Scripts location
 All scripts are located in "Assets/Scripts" folder
